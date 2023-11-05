@@ -1,6 +1,6 @@
 # Hack_WiFi
 
-# **FOR EDUCATIONAL USE ONLY**
+# **FOR EDUCATIONAL USE ONLY** Finds current WiFi Password and prints it to IDE window.
 
 **Requirements:**
 - Python
